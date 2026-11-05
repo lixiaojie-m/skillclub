@@ -7,15 +7,15 @@
 <p align="center"><strong>团队的 AI 技能库 · 一处管理，随处可用</strong></p>
 
 <p align="center">
-  <a href="https://www.aisync.work/"><img alt="Website" src="https://img.shields.io/badge/website-aisync.work-147ffa"></a>
-  <a href="https://www.aisync.work/#download"><img alt="Download" src="https://img.shields.io/badge/download-macOS%20%7C%20Windows-147ffa"></a>
+  <a href="https://skillclub.space/"><img alt="Website" src="https://img.shields.io/badge/website-skillclub.space-147ffa"></a>
+  <a href="https://skillclub.space/#download"><img alt="Download" src="https://img.shields.io/badge/download-macOS%20%7C%20Windows-147ffa"></a>
   <img alt="Platform" src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey">
 </p>
 
 <p align="center">
-  <a href="https://www.aisync.work/">官网</a> ·
-  <a href="https://www.aisync.work/#download">下载</a> ·
-  <a href="https://www.aisync.work/install-help">安装帮助</a> ·
+  <a href="https://skillclub.space/">官网</a> ·
+  <a href="https://skillclub.space/#download">下载</a> ·
+  <a href="https://skillclub.space/install-help">安装帮助</a> ·
   <a href="./README.en.md">English</a>
 </p>
 
@@ -68,9 +68,9 @@ Claude Code、Codex、Gemini CLI、Cursor、Cline、Kilo Code、Qwen Code、Roo 
 
 ## 下载与安装
 
-- 官网：[https://www.aisync.work](https://www.aisync.work/)
-- 下载：[https://www.aisync.work/#download](https://www.aisync.work/#download)
-- 安装帮助（macOS / Windows）：[https://www.aisync.work/install-help](https://www.aisync.work/install-help)
+- 官网：[https://skillclub.space](https://skillclub.space/)
+- 下载：[https://skillclub.space/#download](https://skillclub.space/#download)
+- 安装帮助（macOS / Windows）：[https://skillclub.space/install-help](https://skillclub.space/install-help)
 
 支持 macOS（Apple 芯片与 Intel）和 Windows x64。
 
@@ -117,9 +117,9 @@ Skill 是 AI 编程工具可以读取的一组指令和资源，通常以 `SKILL
 
 ## 链接
 
-- 官网：[https://www.aisync.work](https://www.aisync.work/)
-- 下载：[https://www.aisync.work/#download](https://www.aisync.work/#download)
-- 安装帮助：[https://www.aisync.work/install-help](https://www.aisync.work/install-help)
+- 官网：[https://skillclub.space](https://skillclub.space/)
+- 下载：[https://skillclub.space/#download](https://skillclub.space/#download)
+- 安装帮助：[https://skillclub.space/install-help](https://skillclub.space/install-help)
 - English: [README.en.md](./README.en.md)
 
 ## 反馈

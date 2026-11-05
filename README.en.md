@@ -7,9 +7,9 @@
 <p align="center"><strong>Your team's AI skill library — manage once, use anywhere.</strong></p>
 
 <p align="center">
-  <a href="https://www.aisync.work/">Website</a> ·
-  <a href="https://www.aisync.work/#download">Download</a> ·
-  <a href="https://www.aisync.work/install-help">Install help</a> ·
+  <a href="https://skillclub.space/">Website</a> ·
+  <a href="https://skillclub.space/#download">Download</a> ·
+  <a href="https://skillclub.space/install-help">Install help</a> ·
   <a href="./README.md">简体中文</a>
 </p>
 
@@ -62,9 +62,9 @@ If your tool is not on the list, open an issue and tell us.
 
 ## Download
 
-- Website: [https://www.aisync.work](https://www.aisync.work/)
-- Download: [https://www.aisync.work/#download](https://www.aisync.work/#download)
-- Install help: [https://www.aisync.work/install-help](https://www.aisync.work/install-help)
+- Website: [https://skillclub.space](https://skillclub.space/)
+- Download: [https://skillclub.space/#download](https://skillclub.space/#download)
+- Install help: [https://skillclub.space/install-help](https://skillclub.space/install-help)
 
 Available for macOS (Apple silicon and Intel) and Windows x64.
 
@@ -103,9 +103,9 @@ This repository is the product introduction and entry point. The desktop client 
 
 ## Links
 
-- Website: [https://www.aisync.work](https://www.aisync.work/)
-- Download: [https://www.aisync.work/#download](https://www.aisync.work/#download)
-- Install help: [https://www.aisync.work/install-help](https://www.aisync.work/install-help)
+- Website: [https://skillclub.space](https://skillclub.space/)
+- Download: [https://skillclub.space/#download](https://skillclub.space/#download)
+- Install help: [https://skillclub.space/install-help](https://skillclub.space/install-help)
 - 简体中文: [README.md](./README.md)
 
 ## Feedback
